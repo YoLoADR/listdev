@@ -1,5 +1,7 @@
+/** @format */
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+//import { PostList } from '@components';
 
 export default function App() {
   return (

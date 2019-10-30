@@ -1,0 +1,15 @@
+{
+    "Website": {
+      "url": "http://restaurant.inspireui.com",
+      "consumerKey": "ck_dea33595faa8108d7e2fc06f80aeb3011cdb41e0",
+      "consumerSecret": "cs_cdbce2499eb0f4598503e457506e5a47fce9d6f3"
+    },
+    "Theme": "restaurant",
+    "MainColor": {
+      "tabbarTint": "rgb(27, 229, 141)",
+      "tabbarColor": "#D5D8DE",
+  
+      "mainColorTheme": "rgb(27, 229, 141)",
+      "tabbar": "#FFF"
+    }
+  }

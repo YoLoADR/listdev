@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "listdev",
-    "slug": "listdev.com",
+    "slug": "listdev",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
